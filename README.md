@@ -1,3 +1,5 @@
+<img src='giphy.webp' width='100%' height='400px'/>
+
 <h1 align="center">Hi 👋, I'm Jitun Mohajan</h1>
 
 
